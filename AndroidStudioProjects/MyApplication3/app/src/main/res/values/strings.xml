@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KK音乐</string>
+    <string name="source_add_text">可以分享您知道的的网络资源地址\n1. 发送相关资源至tor108@outlook.com\n2. 在开发者中查阅如何直接在服务器上配置您的资源</string>
+    <string name="about_text">当前版本:1.0.0\n关于:\n 1.资源\n    本应用音乐资源来源于网易云音乐，仅供开发者练习使用。\n2.开源\n    本应用客户端源代码已上传至github.com/W1412X/kk_music\n3.\n    (1)本应用可以修改MainPageActivity中的ServerConnect类来自行配置资源(需要有一台服务器)\n    (2)可以选择在应用客户端中使用爬虫技术获取对应的资源\n    (3)也可以使用现有服务器进行配置,具体服务器信息在开发者中提到.\n**作者邮箱tor108@outlook.com**</string>
+    <string name="privacy_text">当前版本:1.0.0\n个人信息收集清单：\n version-1.0.0\n1. 保存您的用户名，密码至数据库\n version-1.0.1\n 1. 保存您的用户名，密码至数据库\n2. 收集您的音乐偏好信息\n 保存您的收藏的歌曲，下载的歌曲以及最经听过的歌曲的列表 </string>
+    <string name="permission_text">权限说明:\n1. 读写您的存储设备以下载歌曲\n2.拥有完全的网络访问权限用于获取歌曲</string>
+    <string name="version">1.0.0</string>
+</resources>
